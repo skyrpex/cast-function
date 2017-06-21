@@ -1,0 +1,33 @@
+{
+	"name": "cast-function",
+	"version": "0.0.0",
+	"description": "Casts value as a function if it's not one.",
+	"license": "MIT",
+	"repository": "skyrpex/cast-function",
+	"author": {
+		"name": "Cristian Pallarés",
+		"email": "cristian@pallares.io",
+		"url": "pallares.io"
+	},
+	"engines": {
+		"node": ">=4"
+	},
+	"scripts": {
+		"test": "ava"
+	},
+	"files": [
+		"index.js"
+	],
+	"keywords": [
+		"cast",
+		"function",
+		"browser",
+		"modern"
+	],
+	"dependencies": {
+		"lodash.isfunction": "^3.0.8"
+	},
+	"devDependencies": {
+		"ava": "^0.19.1"
+	}
+}
