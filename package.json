@@ -1,6 +1,6 @@
 {
 	"name": "cast-function",
-	"version": "0.0.0",
+	"version": "1.0.0",
 	"description": "Casts value as a function if it's not one.",
 	"license": "MIT",
 	"repository": "skyrpex/cast-function",
